@@ -1,4 +1,4 @@
-#**CineMate 🎬**
+# CineMate 🎬
 
 A sleek and interactive movie discovery webapp built using React, Vite, Tailwind CSS, and Appwrite.  
 Search thousands of movies, explore trending titles, and enjoy a smooth user experience.
